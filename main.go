@@ -111,7 +111,7 @@ type Selection struct {
 const (
 	url = "https://seeking-alpha.p.rapidapi.com/news/v2/list-by-symbol?size=56&id="
 	apiKeyHeader = "X-RapidAPI-Key"
-	apiKey = "1f8b8d8e3dmsh890c10806666da0p13bb97jsna68ebc72e965"
+	apiKey = "Enter Your Key"
 )
 
 type attributes struct {
